@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/1270056933256069150/1270057172507820155/farcix_free.dll?ex=66b6edaa&is=66b59c2a&hm=aa3893a89be58028dd54176c1b715d5ceb6e19f2f69207a38ba7b33f2c6e01ae&
+https://github.com/pusbaness/pusbane/raw/main/client.dll
